@@ -22,3 +22,6 @@ Model Weights: https://drive.google.com/file/d/1EnPc04tFzUDlWDAO4Oi7nDlSUp4MhFEB
 Output Video: https://drive.google.com/file/d/1vLfAxRClU-iJnZjOkU6JVtlxsnC7JQIo/view?usp=sharing
 
 
+## References
+  YOLOv5: https://github.com/ultralytics/yolov5.git
+  Deep-SORT: https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch.git
