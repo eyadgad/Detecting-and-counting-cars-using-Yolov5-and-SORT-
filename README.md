@@ -23,5 +23,5 @@ Output Video: https://drive.google.com/file/d/1vLfAxRClU-iJnZjOkU6JVtlxsnC7JQIo/
 
 
 ## References
-  YOLOv5: https://github.com/ultralytics/yolov5.git
-  Deep-SORT: https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch.git
+  - YOLOv5: https://github.com/ultralytics/yolov5.git
+  - Deep-SORT: https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch.git
